@@ -126,7 +126,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 child: ElevatedButton(
                   onPressed: _submitForm, // Submit form action
                   style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.deepOrange[800], // Button color
+                      backgroundColor: const Color.fromARGB(255, 224, 57, 6), // Button color
 
                       padding: const EdgeInsets.symmetric(
                           horizontal: 100, vertical: 15), // Button padding

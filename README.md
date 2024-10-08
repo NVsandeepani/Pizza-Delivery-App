@@ -1,16 +1,26 @@
-# pizza_delivery_app
+# Pizza Delivery Mobile Application
 
-A new Flutter project.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Scroll+To+Bottom!;" />
+</h1>
 
-## Getting Started
+## About The Project
+<p> A Pizza delivery app is an online platform where users can order pizza from a variety of restaurants and have it delivered to their location..</p><br>
 
-This project is a starting point for a Flutter application.
+## Admin Panel
+  https://github.com/user-attachments/assets/f309af14-3e10-489c-bd4f-81ec8b20503e
 
-A few resources to get you started if this is your first Flutter project:
+## Data Base
+https://github.com/user-attachments/assets/001f79c8-9794-4614-8e7c-6c3d9a3b5728
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## User Panel
+https://github.com/user-attachments/assets/1cce3807-0a51-46fc-85fd-89c204ea7999
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+### Built With
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</div>
